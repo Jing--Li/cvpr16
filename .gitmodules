@@ -1,0 +1,3 @@
+[submodule "caffe-vml"]
+	path = caffe-vml
+	url = https://github.com/vml-cvpr2016/caffe-vml.git
